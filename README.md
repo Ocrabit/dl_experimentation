@@ -11,8 +11,8 @@ The goal was simple:
 2. Train flow-matching models to generate samples from each VAE’s latent space.
 3. Find most effective archtecture to win the competition.
 
-# Note: Although I did get side track for most of the competition because spatial latents where much more fun to play with.
-# Second Note: Reason we used MNIST and not CIFAR-10 or CIFAR-100 was because of limited hardware, my spatials would have been much more effective with more scale and challenge.
+*Note: Although I did get side track for most of the competition because spatial latents where much more fun to play with.*
+*Second Note: Reason we used MNIST and not CIFAR-10 or CIFAR-100 was because of limited hardware, my spatials would have been much more effective with more scale and challenge.*
 
 Although winning was one goal, my other was to compare how different latent designs affected how well and how easily the flow models learned to sample. As this competition helped give us skills to better understand when we added guidance to Stable Audio Open Small (a flow model).
 
